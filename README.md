@@ -14,6 +14,8 @@ My research focuses on the union of physics and computing, particularly within t
 
 A significant aspect of my research involves conducting simulations to assess the effectiveness of FAQUAD across various quantum computing scenarios. Through these simulations, I have been able to compare FAQUAD's performance with alternative protocols, gaining insights into its strengths, weaknesses, and possible areas for enhancement.
 
+In parallel, I am currently exploring the frontier of **topological quantum matter**. My interests in this domain include **topological insulators** - materials whose bulk is insulating but whose surface hosts topologically protected conducting states - and **topological superconductors**, which can harbor exotic **Majorana zero modes** at their boundaries. These Majorana quasiparticles are self-conjugate fermionic excitations whose non-Abelian braiding statistics make them highly appealing for realizing fault-tolerant **topological qubits**, potentially offering a path toward intrinsically error-protected quantum computation.
+
 ### Biography
 
 I graduated in 2025 with a Bachelor's degree in Physics with honors in Introduction to Financial Markets and Operations, and Econophysics at the University of the Balearic Islands ([UIB](https://www.uib.eu/)). My academic journey has been marked by a keen interest in the intersection of physics and economics, exploring the dynamics of complex systems and their applications in financial markets.
@@ -23,54 +25,51 @@ You can view my IFISC student profile here: [Iker Lomas – IFISC](https://ifisc
 
 ### Skills
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
-  </a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
-  </a>
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" alt="Julia" title="Julia" width="36" height="36" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" title="MATLAB" width="36" height="36" />
-  </a>
-</p>
+**Languages & Scientific Computing**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+---
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ikerbenidorm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/iker-lomas-javaloyes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/ikerbenidorm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ikerbenidorm?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ikerbenidorm)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-lomas-javaloyes)
 
-### Badges
+![GitHub Followers](https://img.shields.io/github/followers/ikerbenidorm?style=for-the-badge&logo=github&color=3382ed&labelColor=27272a&label=Followers)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/ikerbenidorm"><img src="https://github-readme-stats.vercel.app/api?username=ikerbenidorm&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="ikerbenidorm's GitHub stats" /></a>
+### Top Repositories
 
-<a href="https://github.com/ikerbenidorm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbenidorm&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ikerbenidorm/faquad-protocol" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ikerbenidorm&repo=faquad-protocol&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/ikerbenidorm/structured-scale-free-networks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ikerbenidorm&repo=structured-scale-free-networks&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b><a href="https://github.com/ikerbenidorm/faquad-protocol">faquad-protocol</a></b><br/>
+      <sub>FAQUAD quantum control protocol simulations</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/ikerbenidorm/faquad-protocol?style=flat-square&color=3382ed&labelColor=27272a&logo=github&logoColor=white" />&nbsp;<img src="https://img.shields.io/github/last-commit/ikerbenidorm/faquad-protocol?style=flat-square&color=3382ed&labelColor=27272a" />
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/ikerbenidorm/faquad-protocol?style=flat-square&labelColor=27272a" />
+    </td>
+    <td align="center" width="50%">
+      <b><a href="https://github.com/ikerbenidorm/structured-scale-free-networks">structured-scale-free-networks</a></b><br/>
+      <sub>Scale-free network topology analysis</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/ikerbenidorm/structured-scale-free-networks?style=flat-square&color=3382ed&labelColor=27272a&logo=github&logoColor=white" />&nbsp;<img src="https://img.shields.io/github/last-commit/ikerbenidorm/structured-scale-free-networks?style=flat-square&color=3382ed&labelColor=27272a" />
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/ikerbenidorm/structured-scale-free-networks?style=flat-square&labelColor=27272a" />
+    </td>
+  </tr>
+</table>
